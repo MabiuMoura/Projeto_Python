@@ -1,4 +1,5 @@
 # automação web e busca de informação com python
+#PROJETO DISPONIBILIZADO PELO INTENSIVÂO DA HASHTAG
 
 # PASSO A PASSO
 # ENTRAR NO CHROME

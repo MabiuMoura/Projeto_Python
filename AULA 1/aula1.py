@@ -1,3 +1,6 @@
+#PROJETO DE AUTOMAÇÃO DE PROCESSO
+#PROJETO DISPONIBILIZADO PELO INTENSIVÂO DA HASHTAG
+
 import pyautogui
 import time
 import pyperclip
@@ -44,7 +47,7 @@ pyautogui.write("https://outlook.live.com/mail/0/")
 pyautogui.press("enter")
 time.sleep(4)
 pyautogui.press("n")
-pyautogui.write("mabiu.moura07@aluno.ifce.edu.br")
+pyautogui.write("") # SEU EMAIL
 pyautogui.press("tab")
 pyautogui.press("tab")
 pyautogui.write("Analise da planilha")

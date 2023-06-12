@@ -1,3 +1,6 @@
+#PROJETO DISPONIBILIZADO PELO INTENSIVÂO DA HASHTAG
+#machine learn
+
 # PASSO A PASSO
 # 1: entender o desafio
 
